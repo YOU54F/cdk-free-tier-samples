@@ -513,12 +513,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@middy/core@^1.4.0":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@middy/core/-/core-1.5.2.tgz#41e09c541ad13fd7acc48a63a72a211206ce2f2b"
-  integrity sha512-ja9hE3BheH9brkpFvNZ8bEQjopTT6ldGSbCPSGZk3UVgC9i9SdhoPOoFetrl3sOBO/sG6L8kKPxxUWeo1aO9Ug==
-  dependencies:
-    once "^1.4.0"
+"@middy/core@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@middy/core/-/core-2.0.0.tgz#f6d541247487de2c6434146f4cebf80253352b68"
+  integrity sha512-lBhyQuIq9upSGKpy6hyz1/gJsYNbLoa9MNGCti0YoD/9WUGpPIkWvX2AVHZ38aJyO7mdMpXIameVyB+bghI8NA==
 
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
