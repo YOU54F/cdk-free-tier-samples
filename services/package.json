@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@middy/core": "^1.4.0",
-    "@types/aws-lambda": "^8.10.64",
+    "@types/aws-lambda": "^8.10.72",
     "@types/pg": "^7.14.11",
     "@types/pino": "^6.3.3",
     "aws-sdk": "^2.794.0",
