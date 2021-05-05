@@ -27,7 +27,7 @@
     "typescript": "4.2.4"
   },
   "dependencies": {
-    "@middy/core": "^1.4.0",
+    "@middy/core": "^2.0.0",
     "@types/aws-lambda": "^8.10.64",
     "@types/pg": "^7.14.11",
     "@types/pino": "^6.3.3",
