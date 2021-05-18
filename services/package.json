@@ -29,7 +29,7 @@
   "dependencies": {
     "@middy/core": "^2.0.0",
     "@types/aws-lambda": "^8.10.64",
-    "@types/pg": "^7.14.11",
+    "@types/pg": "^8.0.0",
     "@types/pino": "^6.3.3",
     "aws-sdk": "^2.794.0",
     "aws-xray-sdk-core": "^3.2.0",
